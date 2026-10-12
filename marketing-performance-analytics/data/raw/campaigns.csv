@@ -1,0 +1,9 @@
+campaign_id,campaign_name,channel,campaign_type,start_date,end_date,budget
+CMP001,Brand Search Always-On,Paid Search,Search,2025-01-01,2025-12-31,24000
+CMP002,Spring Paid Social Prospecting,Paid Social,Awareness,2025-02-01,2025-05-31,18000
+CMP003,Cart Retargeting,Paid Social,Retargeting,2025-01-15,2025-12-15,18000
+CMP004,Lifecycle Email Series,Email,Lifecycle,2025-01-01,2025-12-31,6000
+CMP005,Creator Product Reviews,Influencer,Partnership,2025-04-01,2025-08-31,12000
+CMP006,Evergreen SEO Content,Organic Search,Content,2025-01-01,2025-12-31,4500
+CMP007,Shopping Feed Optimisation,Paid Search,Shopping,2025-03-01,2025-10-31,20000
+CMP008,Holiday Gift Guide,Email,Seasonal,2025-10-01,2025-12-31,8500

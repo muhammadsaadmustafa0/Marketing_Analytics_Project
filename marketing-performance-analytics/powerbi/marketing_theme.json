@@ -1,0 +1,19 @@
+{
+  "name": "Growth Signals",
+  "dataColors": [
+    "#168C81",
+    "#407CC2",
+    "#C58A24",
+    "#8270C9",
+    "#D45D5D",
+    "#3C647C",
+    "#70B7AD",
+    "#8DA7C7"
+  ],
+  "background": "#F5F8FC",
+  "foreground": "#172B3A",
+  "tableAccent": "#168C81",
+  "good": "#168C81",
+  "neutral": "#C58A24",
+  "bad": "#D45D5D"
+}

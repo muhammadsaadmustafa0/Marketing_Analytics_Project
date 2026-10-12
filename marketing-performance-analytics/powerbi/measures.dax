@@ -1,0 +1,196 @@
+/* Marketing Performance Analytics — Power BI measures
+   Assumes raw CSVs are loaded as same-named tables and relationships follow model_and_report_plan.md.
+   Create these measures under a dedicated Measures table for tidy model organization. */
+
+Marketing Spend =
+SUM ( 'campaign_spend_daily'[spend] )
+
+Attributed Revenue =
+SUM ( 'campaign_spend_daily'[revenue_attributed] )
+
+Attributed Conversions =
+SUM ( 'campaign_spend_daily'[conversions] )
+
+Impressions =
+SUM ( 'campaign_spend_daily'[impressions] )
+
+Ad Clicks =
+SUM ( 'campaign_spend_daily'[clicks] )
+
+ROAS =
+DIVIDE ( [Attributed Revenue], [Marketing Spend] )
+
+Cost per Attributed Conversion =
+DIVIDE ( [Marketing Spend], [Attributed Conversions] )
+
+CTR =
+DIVIDE ( [Ad Clicks], [Impressions] )
+
+Click-to-Conversion Rate =
+DIVIDE ( [Attributed Conversions], [Ad Clicks] )
+
+Budget Utilisation =
+DIVIDE ( [Marketing Spend], SUM ( 'campaigns'[budget] ) )
+
+Journey Sessions =
+DISTINCTCOUNT ( 'customer_journey'[session_id] )
+
+Journey Purchase Sessions =
+CALCULATE (
+    DISTINCTCOUNT ( 'customer_journey'[session_id] ),
+    'customer_journey'[stage] = "Purchase"
+)
+
+Journey Purchase Rate =
+DIVIDE ( [Journey Purchase Sessions], [Journey Sessions] )
+
+Journey Order Value =
+SUM ( 'customer_journey'[order_value] )
+
+Average Journey Order Value =
+DIVIDE ( [Journey Order Value], [Journey Purchase Sessions] )
+
+Review Count =
+COUNTROWS ( 'customer_reviews' )
+
+Average Review Rating =
+AVERAGE ( 'customer_reviews'[rating] )
+
+Positive Reviews (4–5) =
+CALCULATE ( [Review Count], 'customer_reviews'[rating] >= 4 )
+
+Negative Reviews (1–2) =
+CALCULATE ( [Review Count], 'customer_reviews'[rating] <= 2 )
+
+Positive Review Share =
+DIVIDE ( [Positive Reviews (4–5)], [Review Count] )
+
+Content Views =
+SUM ( 'content_engagement'[views] )
+
+Content Clicks =
+SUM ( 'content_engagement'[clicks] )
+
+Content Interactions =
+SUM ( 'content_engagement'[likes] )
+    + SUM ( 'content_engagement'[shares] )
+    + SUM ( 'content_engagement'[comments] )
+
+Content View-to-Click Rate =
+DIVIDE ( [Content Clicks], [Content Views] )
+
+Content Interaction Rate =
+DIVIDE ( [Content Interactions], [Content Views] )
+
+/* Optional Calendar table expression:
+Calendar = CALENDAR ( DATE ( 2025, 1, 1 ), DATE ( 2025, 12, 31 ) )
+
+Mark Calendar as the model's date table. Connect Calendar[Date] to campaign_spend_daily[spend_date]
+with an active relationship. Make relationships to journey, review and engagement dates inactive, then
+use USERELATIONSHIP inside dedicated date-aware measures when those visuals need the shared date slicer.
+*/
+
+/* Date-aware versions: use these when the shared Calendar slicer should filter a non-spend fact. */
+Journey Sessions (Selected Date) =
+CALCULATE (
+    [Journey Sessions],
+    USERELATIONSHIP ( 'Calendar'[Date], 'customer_journey'[session_date] )
+)
+
+Journey Purchase Sessions (Selected Date) =
+CALCULATE (
+    [Journey Purchase Sessions],
+    USERELATIONSHIP ( 'Calendar'[Date], 'customer_journey'[session_date] )
+)
+
+Journey Purchase Rate (Selected Date) =
+DIVIDE ( [Journey Purchase Sessions (Selected Date)], [Journey Sessions (Selected Date)] )
+
+Journey Order Value (Selected Date) =
+CALCULATE (
+    [Journey Order Value],
+    USERELATIONSHIP ( 'Calendar'[Date], 'customer_journey'[session_date] )
+)
+
+Review Count (Selected Date) =
+CALCULATE (
+    [Review Count],
+    USERELATIONSHIP ( 'Calendar'[Date], 'customer_reviews'[review_date] )
+)
+
+Average Review Rating (Selected Date) =
+CALCULATE (
+    [Average Review Rating],
+    USERELATIONSHIP ( 'Calendar'[Date], 'customer_reviews'[review_date] )
+)
+
+Content Views (Selected Date) =
+CALCULATE (
+    [Content Views],
+    USERELATIONSHIP ( 'Calendar'[Date], 'content_engagement'[engagement_date] )
+)
+
+Content Interactions (Selected Date) =
+CALCULATE (
+    [Content Interactions],
+    USERELATIONSHIP ( 'Calendar'[Date], 'content_engagement'[engagement_date] )
+)
+
+/* Create the disconnected stage dimension below. Use Funnel Stages[Stage] on a funnel visual. */
+Funnel Stages =
+DATATABLE (
+    "Stage", STRING,
+    "StageOrder", INTEGER,
+    {
+        { "Awareness", 1 },
+        { "Consideration", 2 },
+        { "Intent", 3 },
+        { "Purchase", 4 }
+    }
+)
+
+Sessions Reaching Funnel Stage =
+VAR CurrentStageOrder = SELECTEDVALUE ( 'Funnel Stages'[StageOrder], 1 )
+RETURN
+CALCULATE (
+    DISTINCTCOUNT ( 'customer_journey'[session_id] ),
+    FILTER (
+        ALL ( 'customer_journey'[stage] ),
+        SWITCH (
+            'customer_journey'[stage],
+            "Awareness", 1,
+            "Consideration", 2,
+            "Intent", 3,
+            "Purchase", 4,
+            0
+        ) >= CurrentStageOrder
+    )
+)
+
+Sessions Reaching Funnel Stage (Selected Date) =
+CALCULATE (
+    [Sessions Reaching Funnel Stage],
+    USERELATIONSHIP ( 'Calendar'[Date], 'customer_journey'[session_date] )
+)
+
+Funnel Progression Rate =
+VAR CurrentStageOrder = SELECTEDVALUE ( 'Funnel Stages'[StageOrder] )
+VAR PreviousStageSessions =
+    CALCULATE (
+        [Sessions Reaching Funnel Stage],
+        FILTER ( ALL ( 'Funnel Stages' ), 'Funnel Stages'[StageOrder] = CurrentStageOrder - 1 )
+    )
+RETURN
+DIVIDE ( [Sessions Reaching Funnel Stage], PreviousStageSessions )
+
+Content Clicks (Selected Date) =
+CALCULATE (
+    [Content Clicks],
+    USERELATIONSHIP ( 'Calendar'[Date], 'content_engagement'[engagement_date] )
+)
+
+Content View-to-Click Rate (Selected Date) =
+DIVIDE ( [Content Clicks (Selected Date)], [Content Views (Selected Date)] )
+
+Content Interaction Rate (Selected Date) =
+DIVIDE ( [Content Interactions (Selected Date)], [Content Views (Selected Date)] )

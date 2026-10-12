@@ -1,0 +1,13 @@
+product_id,product_name,category,list_price,cost_price,is_active
+PRD001,Everyday Sneakers,Footwear,89,34,1
+PRD002,Trail Runner,Footwear,119,48,1
+PRD003,Canvas Tote,Accessories,24,7,1
+PRD004,Travel Backpack,Accessories,79,29,1
+PRD005,Performance Tee,Apparel,32,10,1
+PRD006,Everyday Hoodie,Apparel,64,23,1
+PRD007,Insulated Bottle,Accessories,28,8,1
+PRD008,Studio Leggings,Apparel,58,19,1
+PRD009,Lightweight Jacket,Apparel,98,39,1
+PRD010,Training Shorts,Apparel,38,12,1
+PRD011,Recovery Slides,Footwear,44,15,1
+PRD012,Weekend Duffel,Accessories,72,25,1

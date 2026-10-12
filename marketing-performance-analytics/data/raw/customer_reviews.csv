@@ -1,0 +1,521 @@
+review_id,customer_id,product_id,review_date,rating,review_text
+REV00001,CUS0131,PRD009,2025-11-01,3,Packaging arrived damaged.
+REV00002,CUS0027,PRD011,2025-06-21,4,The sizing guide helped me choose correctly.
+REV00003,CUS0051,PRD010,2025-12-22,4,Looks even better than expected; delivery was quick.
+REV00004,CUS0036,PRD009,2025-04-19,4,The sizing guide helped me choose correctly.
+REV00005,CUS0014,PRD011,2025-11-17,5,  A  practical  purchase  that  feels  well  made.  
+REV00006,CUS0008,PRD001,2025-02-15,2,"Nice design, but not worth the full price."
+REV00007,CUS0042,PRD004,2025-11-10,3,The fit was smaller than expected.
+REV00008,CUS0031,PRD001,2025-09-21,4,Comfortable after a full day of use.
+REV00009,CUS0095,PRD005,2025-08-04,3,  Looks  even  better  than  expected;  delivery  was  quick.  
+REV00010,CUS0080,PRD005,2025-02-09,5,Comfortable after a full day of use.
+REV00011,CUS0070,PRD002,2025-12-24,4,Comfortable after a full day of use.
+REV00012,CUS0023,PRD001,2025-08-29,2,The product photo did not match the colour exactly.
+REV00013,CUS0100,PRD002,2025-04-19,5,Comfortable fit and good materials.
+REV00014,CUS0096,PRD009,2025-07-08,4,The sizing guide helped me choose correctly.
+REV00015,CUS0004,PRD002,2025-07-02,5,"  Good  product,  but  the  packaging  could  improve.  "
+REV00016,CUS0016,PRD011,2025-02-20,5,Solid build and thoughtful details.
+REV00017,CUS0137,PRD001,2025-05-04,4,A practical purchase that feels well made.
+REV00018,CUS0026,PRD010,2025-09-29,5,Solid build and thoughtful details.
+REV00019,CUS0151,PRD005,2025-08-19,2,Packaging arrived damaged.
+REV00020,CUS0021,PRD003,2025-05-07,5,  The  sizing  guide  helped  me  choose  correctly.  
+REV00021,CUS0107,PRD007,2025-10-01,2,  Quality  was  inconsistent  with  my  last  order.  
+REV00022,CUS0143,PRD003,2025-03-10,5,Colour matched the product photos.
+REV00023,CUS0025,PRD001,2025-04-13,4,The sizing guide helped me choose correctly.
+REV00024,CUS0041,PRD010,2025-01-18,5,"Good product, but the packaging could improve."
+REV00025,CUS0158,PRD011,2025-04-22,5,A practical purchase that feels well made.
+REV00026,CUS0085,PRD007,2025-10-03,4,Comfortable fit and good materials.
+REV00027,CUS0088,PRD002,2025-12-02,4,Useful for everyday use and easy to clean.
+REV00028,CUS0065,PRD002,2025-09-13,4,Comfortable after a full day of use.
+REV00029,CUS0111,PRD002,2025-10-17,4,A practical purchase that feels well made.
+REV00030,CUS0017,PRD004,2025-04-11,5,Useful for everyday use and easy to clean.
+REV00031,CUS0063,PRD001,2025-11-16,3,Delivery took longer than the estimate.
+REV00032,CUS0071,PRD008,2025-07-12,5,Looks even better than expected; delivery was quick.
+REV00033,CUS0094,PRD004,2025-09-16,1,The product photo did not match the colour exactly.
+REV00034,CUS0039,PRD002,2025-07-25,2,Quality was inconsistent with my last order.
+REV00035,CUS0053,PRD007,2025-10-27,2,"Nice design, but not worth the full price."
+REV00036,CUS0039,PRD010,2025-04-07,4,Useful for everyday use and easy to clean.
+REV00037,CUS0153,PRD009,2025-03-05,5,  Comfortable  after  a  full  day  of  use.  
+REV00038,CUS0082,PRD004,2025-06-20,1,Delivery took longer than the estimate.
+REV00039,CUS0153,PRD008,2025-08-30,4,A practical purchase that feels well made.
+REV00040,CUS0137,PRD002,2025-10-20,3,A practical purchase that feels well made.
+REV00041,CUS0103,PRD002,2025-03-11,4,  Comfortable  fit  and  good  materials.  
+REV00042,CUS0141,PRD007,2025-08-05,4,Comfortable after a full day of use.
+REV00043,CUS0150,PRD007,2025-09-12,5,Comfortable fit and good materials.
+REV00044,CUS0108,PRD007,2025-08-28,5,  Solid  build  and  thoughtful  details.  
+REV00045,CUS0116,PRD006,2025-04-05,3,The fit was smaller than expected.
+REV00046,CUS0029,PRD005,2025-12-04,1,The product photo did not match the colour exactly.
+REV00047,CUS0115,PRD006,2025-02-13,5,  Comfortable  fit  and  good  materials.  
+REV00048,CUS0123,PRD006,2025-03-05,3,  Colour  matched  the  product  photos.  
+REV00049,CUS0116,PRD007,2025-03-25,4,Solid build and thoughtful details.
+REV00050,CUS0107,PRD011,2025-03-25,5,Solid build and thoughtful details.
+REV00051,CUS0122,PRD003,2025-10-05,2,  The  fit  was  smaller  than  expected.  
+REV00052,CUS0024,PRD008,2025-08-03,3,Looks even better than expected; delivery was quick.
+REV00053,CUS0067,PRD005,2025-07-07,3,A practical purchase that feels well made.
+REV00054,CUS0103,PRD005,2025-03-27,5,Great quality for the price.
+REV00055,CUS0062,PRD007,2025-04-13,4,The sizing guide helped me choose correctly.
+REV00056,CUS0037,PRD008,2025-12-11,4,Colour matched the product photos.
+REV00057,CUS0026,PRD011,2025-08-10,4,Comfortable after a full day of use.
+REV00058,CUS0022,PRD008,2025-09-16,3,Comfortable fit and good materials.
+REV00059,CUS0022,PRD007,2025-07-02,4,Looks even better than expected; delivery was quick.
+REV00060,CUS0038,PRD006,2025-09-26,3,Useful for everyday use and easy to clean.
+REV00061,CUS0131,PRD007,2025-11-27,5,The sizing guide helped me choose correctly.
+REV00062,CUS0100,PRD010,2025-04-18,3,A practical purchase that feels well made.
+REV00063,CUS0116,PRD001,2025-03-15,1,  The  fit  was  smaller  than  expected.  
+REV00064,CUS0121,PRD011,2025-06-02,4,Comfortable after a full day of use.
+REV00065,CUS0038,PRD007,2025-11-06,5,"Good product, but the packaging could improve."
+REV00066,CUS0135,PRD011,2025-02-14,5,Comfortable fit and good materials.
+REV00067,CUS0085,PRD005,2025-02-14,4,Comfortable after a full day of use.
+REV00068,CUS0050,PRD005,2025-09-16,4,Comfortable after a full day of use.
+REV00069,CUS0043,PRD008,2025-05-14,4,  Solid  build  and  thoughtful  details.  
+REV00070,CUS0107,PRD011,2025-04-27,4,Great quality for the price.
+REV00071,CUS0111,PRD002,2025-05-07,1,Delivery took longer than the estimate.
+REV00072,CUS0002,PRD001,2025-09-30,4,"Good product, but the packaging could improve."
+REV00073,CUS0061,PRD004,2025-08-21,4,Solid build and thoughtful details.
+REV00074,CUS0004,PRD008,2025-04-12,4,A practical purchase that feels well made.
+REV00075,CUS0115,PRD005,2025-12-18,5,  Great  quality  for  the  price.  
+REV00076,CUS0040,PRD007,2025-12-24,2,"Nice design, but not worth the full price."
+REV00077,CUS0133,PRD005,2025-03-11,3,Great quality for the price.
+REV00078,CUS0141,PRD002,2025-09-26,5,A practical purchase that feels well made.
+REV00079,CUS0108,PRD001,2025-01-27,5,Solid build and thoughtful details.
+REV00080,CUS0079,PRD004,2025-12-13,5,  Comfortable  after  a  full  day  of  use.  
+REV00081,CUS0057,PRD006,2025-04-06,5,"Good product, but the packaging could improve."
+REV00082,CUS0050,PRD011,2025-09-13,5,Looks even better than expected; delivery was quick.
+REV00083,CUS0154,PRD001,2025-12-31,2,  The  product  photo  did  not  match  the  colour  exactly.  
+REV00084,CUS0015,PRD002,2025-10-30,4,Comfortable after a full day of use.
+REV00085,CUS0080,PRD003,2025-07-06,2,"  Nice  design,  but  not  worth  the  full  price.  "
+REV00086,CUS0096,PRD008,2025-02-23,5,Great quality for the price.
+REV00087,CUS0101,PRD003,2025-01-13,3,  The  fit  was  smaller  than  expected.  
+REV00088,CUS0035,PRD003,2025-10-21,4,  Solid  build  and  thoughtful  details.  
+REV00089,CUS0069,PRD011,2025-01-19,3,Solid build and thoughtful details.
+REV00090,CUS0065,PRD005,2025-07-17,4,Colour matched the product photos.
+REV00091,CUS0039,PRD007,2025-03-16,5,  The  sizing  guide  helped  me  choose  correctly.  
+REV00092,CUS0123,PRD001,2025-04-09,3,Quality was inconsistent with my last order.
+REV00093,CUS0060,PRD004,2025-09-23,5,Great quality for the price.
+REV00094,CUS0008,PRD011,2025-03-24,2,  The  product  photo  did  not  match  the  colour  exactly.  
+REV00095,CUS0052,PRD007,2025-08-17,3,Quality was inconsistent with my last order.
+REV00096,CUS0069,PRD006,2025-10-17,4,Comfortable after a full day of use.
+REV00097,CUS0094,PRD010,2025-10-26,4,Comfortable after a full day of use.
+REV00098,CUS0123,PRD003,2025-07-07,5,A practical purchase that feels well made.
+REV00099,CUS0062,PRD009,2025-12-29,5,Comfortable after a full day of use.
+REV00100,CUS0119,PRD011,2025-12-24,3,"  Good  product,  but  the  packaging  could  improve.  "
+REV00101,CUS0138,PRD003,2025-12-07,5,Comfortable fit and good materials.
+REV00102,CUS0015,PRD010,2025-09-15,5,Useful for everyday use and easy to clean.
+REV00103,CUS0076,PRD004,2025-06-15,4,"Good product, but the packaging could improve."
+REV00104,CUS0042,PRD001,2025-01-21,4,"Good product, but the packaging could improve."
+REV00105,CUS0110,PRD010,2025-04-26,5,  Colour  matched  the  product  photos.  
+REV00106,CUS0047,PRD009,2025-11-01,1,  Quality  was  inconsistent  with  my  last  order.  
+REV00107,CUS0048,PRD011,2025-09-28,5,Comfortable after a full day of use.
+REV00108,CUS0119,PRD012,2025-04-16,3,"Nice design, but not worth the full price."
+REV00109,CUS0136,PRD004,2025-05-17,5,  Colour  matched  the  product  photos.  
+REV00110,CUS0137,PRD004,2025-04-17,2,Quality was inconsistent with my last order.
+REV00111,CUS0153,PRD003,2025-09-19,1,The fit was smaller than expected.
+REV00112,CUS0070,PRD012,2025-04-16,4,Useful for everyday use and easy to clean.
+REV00113,CUS0111,PRD008,2025-08-13,4,"Good product, but the packaging could improve."
+REV00114,CUS0005,PRD004,2025-03-08,4,The sizing guide helped me choose correctly.
+REV00115,CUS0023,PRD012,2025-02-16,4,  Useful  for  everyday  use  and  easy  to  clean.  
+REV00116,CUS0065,PRD012,2025-01-14,3,The fit was smaller than expected.
+REV00117,CUS0142,PRD004,2025-11-01,3,  Colour  matched  the  product  photos.  
+REV00118,CUS0073,PRD010,2025-08-01,4,"Good product, but the packaging could improve."
+REV00119,CUS0001,PRD011,2025-09-11,2,  Delivery  took  longer  than  the  estimate.  
+REV00120,CUS0151,PRD006,2025-09-26,3,The sizing guide helped me choose correctly.
+REV00121,CUS0129,PRD006,2025-08-13,3,The fit was smaller than expected.
+REV00122,CUS0133,PRD011,2025-07-28,5,A practical purchase that feels well made.
+REV00123,CUS0081,PRD003,2025-08-07,2,"Nice design, but not worth the full price."
+REV00124,CUS0001,PRD007,2025-07-26,5,Comfortable after a full day of use.
+REV00125,CUS0064,PRD006,2025-03-01,5,The sizing guide helped me choose correctly.
+REV00126,CUS0106,PRD008,2025-01-19,5,Comfortable fit and good materials.
+REV00127,CUS0060,PRD006,2025-02-26,4,Solid build and thoughtful details.
+REV00128,CUS0119,PRD008,2025-02-07,4,Colour matched the product photos.
+REV00129,CUS0113,PRD006,2025-06-06,4,Comfortable after a full day of use.
+REV00130,CUS0011,PRD003,2025-05-22,4,A practical purchase that feels well made.
+REV00131,CUS0097,PRD006,2025-11-08,4,A practical purchase that feels well made.
+REV00132,CUS0017,PRD005,2025-08-30,3,Looks even better than expected; delivery was quick.
+REV00133,CUS0137,PRD004,2025-08-09,4,  The  sizing  guide  helped  me  choose  correctly.  
+REV00134,CUS0099,PRD005,2025-12-02,4,Solid build and thoughtful details.
+REV00135,CUS0086,PRD011,2025-10-13,5,Looks even better than expected; delivery was quick.
+REV00136,CUS0072,PRD008,2025-06-15,5,Colour matched the product photos.
+REV00137,CUS0112,PRD011,2025-11-01,4,Looks even better than expected; delivery was quick.
+REV00138,CUS0049,PRD004,2025-03-27,3,Great quality for the price.
+REV00139,CUS0075,PRD009,2025-03-25,5,The sizing guide helped me choose correctly.
+REV00140,CUS0045,PRD011,2025-06-18,4,  The  sizing  guide  helped  me  choose  correctly.  
+REV00141,CUS0153,PRD010,2025-05-04,3,Useful for everyday use and easy to clean.
+REV00142,CUS0078,PRD007,2025-03-11,4,The sizing guide helped me choose correctly.
+REV00143,CUS0140,PRD006,2025-09-04,3,Looks even better than expected; delivery was quick.
+REV00144,CUS0001,PRD004,2025-03-25,4,"Good product, but the packaging could improve."
+REV00145,CUS0149,PRD003,2025-09-27,4,  A  practical  purchase  that  feels  well  made.  
+REV00146,CUS0158,PRD012,2025-11-28,4,Comfortable fit and good materials.
+REV00147,CUS0022,PRD004,2025-02-20,4,Great quality for the price.
+REV00148,CUS0124,PRD008,2025-05-26,2,The fit was smaller than expected.
+REV00149,CUS0131,PRD012,2025-11-01,4,Comfortable after a full day of use.
+REV00150,CUS0027,PRD009,2025-06-19,3,The sizing guide helped me choose correctly.
+REV00151,CUS0141,PRD001,2025-09-14,4,A practical purchase that feels well made.
+REV00152,CUS0060,PRD007,2025-02-11,4,The sizing guide helped me choose correctly.
+REV00153,CUS0088,PRD007,2025-07-26,5,Colour matched the product photos.
+REV00154,CUS0023,PRD001,2025-05-17,4,  Looks  even  better  than  expected;  delivery  was  quick.  
+REV00155,CUS0133,PRD008,2025-07-13,1,The product photo did not match the colour exactly.
+REV00156,CUS0031,PRD007,2025-02-27,5,  Comfortable  fit  and  good  materials.  
+REV00157,CUS0030,PRD004,2025-05-10,5,"Good product, but the packaging could improve."
+REV00158,CUS0157,PRD002,2025-12-24,5,Solid build and thoughtful details.
+REV00159,CUS0048,PRD011,2025-12-31,4,The sizing guide helped me choose correctly.
+REV00160,CUS0038,PRD011,2025-12-29,5,The sizing guide helped me choose correctly.
+REV00161,CUS0148,PRD003,2025-09-26,5,Great quality for the price.
+REV00162,CUS0007,PRD003,2025-08-12,5,Looks even better than expected; delivery was quick.
+REV00163,CUS0024,PRD007,2025-05-03,1,  The  product  photo  did  not  match  the  colour  exactly.  
+REV00164,CUS0034,PRD011,2025-08-01,4,Comfortable after a full day of use.
+REV00165,CUS0096,PRD012,2025-05-03,4,  A  practical  purchase  that  feels  well  made.  
+REV00166,CUS0053,PRD003,2025-07-06,5,Comfortable after a full day of use.
+REV00167,CUS0060,PRD010,2025-05-23,3,Great quality for the price.
+REV00168,CUS0109,PRD007,2025-12-10,4,"  Good  product,  but  the  packaging  could  improve.  "
+REV00169,CUS0129,PRD003,2025-02-04,4,Comfortable fit and good materials.
+REV00170,CUS0146,PRD002,2025-08-22,5,Great quality for the price.
+REV00171,CUS0039,PRD008,2025-11-13,5,Comfortable after a full day of use.
+REV00172,CUS0039,PRD010,2025-08-28,4,Looks even better than expected; delivery was quick.
+REV00173,CUS0090,PRD010,2025-11-10,5,Solid build and thoughtful details.
+REV00174,CUS0068,PRD010,2025-04-15,4,Solid build and thoughtful details.
+REV00175,CUS0158,PRD006,2025-10-17,5,Looks even better than expected; delivery was quick.
+REV00176,CUS0138,PRD005,2025-01-29,5,Solid build and thoughtful details.
+REV00177,CUS0083,PRD005,2025-04-26,5,The sizing guide helped me choose correctly.
+REV00178,CUS0098,PRD010,2025-06-01,3,Delivery took longer than the estimate.
+REV00179,CUS0006,PRD009,2025-04-21,4,Comfortable fit and good materials.
+REV00180,CUS0022,PRD010,2025-05-25,1,"Nice design, but not worth the full price."
+REV00181,CUS0123,PRD001,2025-02-08,5,Looks even better than expected; delivery was quick.
+REV00182,CUS0153,PRD008,2025-12-12,5,Great quality for the price.
+REV00183,CUS0140,PRD003,2025-09-21,5,Great quality for the price.
+REV00184,CUS0117,PRD011,2025-07-14,3,  Colour  matched  the  product  photos.  
+REV00185,CUS0028,PRD003,2025-05-26,4,Colour matched the product photos.
+REV00186,CUS0052,PRD003,2025-10-04,3,Solid build and thoughtful details.
+REV00187,CUS0060,PRD005,2025-01-25,3,Delivery took longer than the estimate.
+REV00188,CUS0134,PRD003,2025-10-21,2,The fit was smaller than expected.
+REV00189,CUS0045,PRD004,2025-09-19,3,"Good product, but the packaging could improve."
+REV00190,CUS0122,PRD001,2025-07-06,1,Quality was inconsistent with my last order.
+REV00191,CUS0127,PRD003,2025-09-01,1,Delivery took longer than the estimate.
+REV00192,CUS0110,PRD011,2025-06-07,5,The sizing guide helped me choose correctly.
+REV00193,CUS0130,PRD012,2025-01-24,5,Solid build and thoughtful details.
+REV00194,CUS0038,PRD012,2025-05-01,4,Looks even better than expected; delivery was quick.
+REV00195,CUS0038,PRD005,2025-04-27,2,Quality was inconsistent with my last order.
+REV00196,CUS0021,PRD008,2025-10-30,5,Solid build and thoughtful details.
+REV00197,CUS0111,PRD009,2025-05-06,3,  Comfortable  fit  and  good  materials.  
+REV00198,CUS0088,PRD001,2025-04-03,3,Quality was inconsistent with my last order.
+REV00199,CUS0118,PRD002,2025-07-23,5,The sizing guide helped me choose correctly.
+REV00200,CUS0046,PRD011,2025-10-07,4,Comfortable after a full day of use.
+REV00201,CUS0102,PRD005,2025-03-11,4,Comfortable after a full day of use.
+REV00202,CUS0038,PRD002,2025-07-10,4,A practical purchase that feels well made.
+REV00203,CUS0145,PRD011,2025-05-18,4,Great quality for the price.
+REV00204,CUS0042,PRD004,2025-04-10,5,Looks even better than expected; delivery was quick.
+REV00205,CUS0054,PRD007,2025-12-23,4,Colour matched the product photos.
+REV00206,CUS0090,PRD001,2025-09-03,4,Great quality for the price.
+REV00207,CUS0016,PRD003,2025-03-12,2,The product photo did not match the colour exactly.
+REV00208,CUS0146,PRD007,2025-05-21,4,Colour matched the product photos.
+REV00209,CUS0026,PRD010,2025-04-11,5,A practical purchase that feels well made.
+REV00210,CUS0093,PRD002,2025-06-10,5,  Comfortable  after  a  full  day  of  use.  
+REV00211,CUS0029,PRD003,2025-02-21,2,Packaging arrived damaged.
+REV00212,CUS0109,PRD005,2025-09-22,3,"Good product, but the packaging could improve."
+REV00213,CUS0075,PRD007,2025-06-22,4,Comfortable fit and good materials.
+REV00214,CUS0042,PRD011,2025-06-15,3,Solid build and thoughtful details.
+REV00215,CUS0137,PRD002,2025-09-04,3,The sizing guide helped me choose correctly.
+REV00216,CUS0078,PRD012,2025-11-15,5,  Solid  build  and  thoughtful  details.  
+REV00217,CUS0070,PRD011,2025-11-08,4,Great quality for the price.
+REV00218,CUS0100,PRD002,2025-10-20,3,Solid build and thoughtful details.
+REV00219,CUS0086,PRD003,2025-07-12,3,"Nice design, but not worth the full price."
+REV00220,CUS0111,PRD011,2025-07-18,5,A practical purchase that feels well made.
+REV00221,CUS0075,PRD004,2025-11-28,4,Comfortable fit and good materials.
+REV00222,CUS0005,PRD012,2025-05-11,5,Colour matched the product photos.
+REV00223,CUS0126,PRD001,2025-11-16,1,Quality was inconsistent with my last order.
+REV00224,CUS0021,PRD007,2025-07-27,5,A practical purchase that feels well made.
+REV00225,CUS0031,PRD001,2025-12-14,2,Packaging arrived damaged.
+REV00226,CUS0074,PRD004,2025-11-28,4,Solid build and thoughtful details.
+REV00227,CUS0053,PRD004,2025-12-11,3,Comfortable fit and good materials.
+REV00228,CUS0027,PRD005,2025-09-27,4,Looks even better than expected; delivery was quick.
+REV00229,CUS0159,PRD001,2025-02-08,4,"Good product, but the packaging could improve."
+REV00230,CUS0139,PRD012,2025-03-09,5,"  Good  product,  but  the  packaging  could  improve.  "
+REV00231,CUS0100,PRD006,2025-11-01,5,"  Good  product,  but  the  packaging  could  improve.  "
+REV00232,CUS0140,PRD009,2025-06-01,5,Comfortable after a full day of use.
+REV00233,CUS0013,PRD006,2025-07-05,5,Colour matched the product photos.
+REV00234,CUS0101,PRD006,2025-07-24,5,Great quality for the price.
+REV00235,CUS0157,PRD008,2025-09-11,5,Great quality for the price.
+REV00236,CUS0034,PRD005,2025-12-11,5,Comfortable after a full day of use.
+REV00237,CUS0031,PRD005,2025-12-20,2,Delivery took longer than the estimate.
+REV00238,CUS0006,PRD008,2025-09-17,4,Solid build and thoughtful details.
+REV00239,CUS0042,PRD002,2025-03-21,5,A practical purchase that feels well made.
+REV00240,CUS0052,PRD004,2025-12-14,3,Useful for everyday use and easy to clean.
+REV00241,CUS0129,PRD004,2025-10-21,5,Comfortable fit and good materials.
+REV00242,CUS0131,PRD006,2025-12-26,4,Looks even better than expected; delivery was quick.
+REV00243,CUS0025,PRD011,2025-05-30,5,Great quality for the price.
+REV00244,CUS0137,PRD009,2025-05-12,3,The sizing guide helped me choose correctly.
+REV00245,CUS0144,PRD008,2025-01-18,3,Quality was inconsistent with my last order.
+REV00246,CUS0127,PRD004,2025-08-21,2,The product photo did not match the colour exactly.
+REV00247,CUS0152,PRD012,2025-09-25,4,Colour matched the product photos.
+REV00248,CUS0059,PRD010,2025-04-06,3,The sizing guide helped me choose correctly.
+REV00249,CUS0055,PRD004,2025-12-10,4,The sizing guide helped me choose correctly.
+REV00250,CUS0084,PRD005,2025-10-27,1,Packaging arrived damaged.
+REV00251,CUS0154,PRD011,2025-07-03,4,Comfortable after a full day of use.
+REV00252,CUS0123,PRD012,2025-08-21,5,Comfortable fit and good materials.
+REV00253,CUS0127,PRD006,2025-10-31,4,  Great  quality  for  the  price.  
+REV00254,CUS0010,PRD001,2025-06-28,3,  Quality  was  inconsistent  with  my  last  order.  
+REV00255,CUS0073,PRD004,2025-08-14,3,Quality was inconsistent with my last order.
+REV00256,CUS0137,PRD001,2025-11-03,4,Looks even better than expected; delivery was quick.
+REV00257,CUS0023,PRD009,2025-03-29,5,Looks even better than expected; delivery was quick.
+REV00258,CUS0121,PRD005,2025-12-29,5,Useful for everyday use and easy to clean.
+REV00259,CUS0023,PRD004,2025-08-13,5,The sizing guide helped me choose correctly.
+REV00260,CUS0144,PRD012,2025-11-22,4,Looks even better than expected; delivery was quick.
+REV00261,CUS0097,PRD010,2025-04-29,4,Colour matched the product photos.
+REV00262,CUS0018,PRD004,2025-08-06,5,  A  practical  purchase  that  feels  well  made.  
+REV00263,CUS0044,PRD005,2025-01-11,4,  Comfortable  after  a  full  day  of  use.  
+REV00264,CUS0046,PRD010,2025-08-16,4,Useful for everyday use and easy to clean.
+REV00265,CUS0044,PRD010,2025-09-03,5,Useful for everyday use and easy to clean.
+REV00266,CUS0115,PRD009,2025-09-14,2,Delivery took longer than the estimate.
+REV00267,CUS0038,PRD008,2025-01-14,3,The fit was smaller than expected.
+REV00268,CUS0035,PRD003,2025-08-04,4,Solid build and thoughtful details.
+REV00269,CUS0049,PRD001,2025-05-15,5,"Good product, but the packaging could improve."
+REV00270,CUS0040,PRD005,2025-12-30,2,Delivery took longer than the estimate.
+REV00271,CUS0128,PRD006,2025-06-24,3,"Nice design, but not worth the full price."
+REV00272,CUS0079,PRD006,2025-11-06,4,  The  sizing  guide  helped  me  choose  correctly.  
+REV00273,CUS0103,PRD012,2025-05-10,4,Colour matched the product photos.
+REV00274,CUS0080,PRD008,2025-05-02,2,Delivery took longer than the estimate.
+REV00275,CUS0128,PRD002,2025-02-19,4,  Comfortable  after  a  full  day  of  use.  
+REV00276,CUS0056,PRD004,2025-07-01,4,Comfortable after a full day of use.
+REV00277,CUS0046,PRD010,2025-03-01,4,Comfortable fit and good materials.
+REV00278,CUS0083,PRD008,2025-06-01,5,Useful for everyday use and easy to clean.
+REV00279,CUS0084,PRD012,2025-04-26,4,Comfortable fit and good materials.
+REV00280,CUS0054,PRD006,2025-01-19,5,Comfortable fit and good materials.
+REV00281,CUS0027,PRD003,2025-11-27,2,Quality was inconsistent with my last order.
+REV00282,CUS0122,PRD004,2025-05-23,3,  Comfortable  after  a  full  day  of  use.  
+REV00283,CUS0090,PRD011,2025-10-24,5,Comfortable fit and good materials.
+REV00284,CUS0049,PRD004,2025-08-13,5,A practical purchase that feels well made.
+REV00285,CUS0087,PRD011,2025-08-24,5,  The  sizing  guide  helped  me  choose  correctly.  
+REV00286,CUS0059,PRD005,2025-02-23,1,Quality was inconsistent with my last order.
+REV00287,CUS0038,PRD001,2025-02-15,5,Solid build and thoughtful details.
+REV00288,CUS0063,PRD012,2025-12-05,5,  Comfortable  after  a  full  day  of  use.  
+REV00289,CUS0157,PRD011,2025-12-17,4,"Good product, but the packaging could improve."
+REV00290,CUS0068,PRD008,2025-06-20,4,Solid build and thoughtful details.
+REV00291,CUS0103,PRD003,2025-12-15,4,Comfortable fit and good materials.
+REV00292,CUS0022,PRD006,2025-02-19,1,Delivery took longer than the estimate.
+REV00293,CUS0142,PRD001,2025-12-22,4,Comfortable fit and good materials.
+REV00294,CUS0058,PRD007,2025-01-13,2,"Nice design, but not worth the full price."
+REV00295,CUS0029,PRD010,2025-03-03,5,Comfortable fit and good materials.
+REV00296,CUS0100,PRD008,2025-05-23,3,Great quality for the price.
+REV00297,CUS0096,PRD011,2025-07-25,4,"Good product, but the packaging could improve."
+REV00298,CUS0057,PRD007,2025-02-25,1,Quality was inconsistent with my last order.
+REV00299,CUS0114,PRD008,2025-11-01,2,The product photo did not match the colour exactly.
+REV00300,CUS0106,PRD001,2025-05-07,4,Useful for everyday use and easy to clean.
+REV00301,CUS0014,PRD006,2025-12-10,4,Colour matched the product photos.
+REV00302,CUS0134,PRD012,2025-05-22,5,Solid build and thoughtful details.
+REV00303,CUS0040,PRD003,2025-11-01,4,A practical purchase that feels well made.
+REV00304,CUS0014,PRD002,2025-05-15,2,"Nice design, but not worth the full price."
+REV00305,CUS0020,PRD001,2025-08-05,3,"Nice design, but not worth the full price."
+REV00306,CUS0008,PRD008,2025-12-16,3,Packaging arrived damaged.
+REV00307,CUS0033,PRD008,2025-07-26,5,Useful for everyday use and easy to clean.
+REV00308,CUS0016,PRD009,2025-08-08,3,Solid build and thoughtful details.
+REV00309,CUS0018,PRD011,2025-05-31,5,Colour matched the product photos.
+REV00310,CUS0101,PRD003,2025-12-11,3,Great quality for the price.
+REV00311,CUS0033,PRD009,2025-02-04,3,Comfortable after a full day of use.
+REV00312,CUS0100,PRD004,2025-11-05,1,Quality was inconsistent with my last order.
+REV00313,CUS0066,PRD010,2025-04-03,3,The product photo did not match the colour exactly.
+REV00314,CUS0052,PRD001,2025-04-28,4,Solid build and thoughtful details.
+REV00315,CUS0077,PRD006,2025-07-17,4,A practical purchase that feels well made.
+REV00316,CUS0130,PRD011,2025-04-01,4,Comfortable after a full day of use.
+REV00317,CUS0043,PRD003,2025-09-30,4,  The  sizing  guide  helped  me  choose  correctly.  
+REV00318,CUS0115,PRD006,2025-10-14,3,Useful for everyday use and easy to clean.
+REV00319,CUS0131,PRD009,2025-11-12,1,The product photo did not match the colour exactly.
+REV00320,CUS0084,PRD010,2025-10-06,5,  Comfortable  after  a  full  day  of  use.  
+REV00321,CUS0045,PRD005,2025-06-15,5,A practical purchase that feels well made.
+REV00322,CUS0003,PRD008,2025-06-14,4,"Good product, but the packaging could improve."
+REV00323,CUS0006,PRD006,2025-11-12,4,  A  practical  purchase  that  feels  well  made.  
+REV00324,CUS0152,PRD002,2025-07-15,4,A practical purchase that feels well made.
+REV00325,CUS0070,PRD004,2025-04-16,5,Comfortable after a full day of use.
+REV00326,CUS0152,PRD006,2025-04-09,4,Looks even better than expected; delivery was quick.
+REV00327,CUS0015,PRD001,2025-07-22,4,Looks even better than expected; delivery was quick.
+REV00328,CUS0036,PRD006,2025-12-11,4,A practical purchase that feels well made.
+REV00329,CUS0112,PRD005,2025-04-19,3,The sizing guide helped me choose correctly.
+REV00330,CUS0104,PRD011,2025-05-03,4,Looks even better than expected; delivery was quick.
+REV00331,CUS0108,PRD010,2025-10-24,2,"  Nice  design,  but  not  worth  the  full  price.  "
+REV00332,CUS0027,PRD010,2025-08-09,5,Colour matched the product photos.
+REV00333,CUS0033,PRD009,2025-09-26,3,The sizing guide helped me choose correctly.
+REV00334,CUS0112,PRD007,2025-12-20,3,Great quality for the price.
+REV00335,CUS0070,PRD002,2025-05-29,5,The sizing guide helped me choose correctly.
+REV00336,CUS0003,PRD008,2025-01-25,3,The product photo did not match the colour exactly.
+REV00337,CUS0152,PRD003,2025-06-21,3,"  Good  product,  but  the  packaging  could  improve.  "
+REV00338,CUS0022,PRD008,2025-08-23,5,  Comfortable  after  a  full  day  of  use.  
+REV00339,CUS0113,PRD004,2025-03-28,4,Comfortable after a full day of use.
+REV00340,CUS0048,PRD001,2025-05-22,4,Colour matched the product photos.
+REV00341,CUS0016,PRD009,2025-08-22,5,Solid build and thoughtful details.
+REV00342,CUS0094,PRD005,2025-08-26,4,The sizing guide helped me choose correctly.
+REV00343,CUS0136,PRD012,2025-12-23,3,"  Good  product,  but  the  packaging  could  improve.  "
+REV00344,CUS0112,PRD001,2025-07-16,4,Great quality for the price.
+REV00345,CUS0134,PRD006,2025-09-18,4,Colour matched the product photos.
+REV00346,CUS0072,PRD003,2025-09-07,5,Great quality for the price.
+REV00347,CUS0020,PRD005,2025-01-05,5,Solid build and thoughtful details.
+REV00348,CUS0006,PRD002,2025-07-20,3,"  Good  product,  but  the  packaging  could  improve.  "
+REV00349,CUS0121,PRD004,2025-10-18,4,  A  practical  purchase  that  feels  well  made.  
+REV00350,CUS0021,PRD002,2025-02-26,5,Comfortable fit and good materials.
+REV00351,CUS0020,PRD010,2025-08-05,4,Great quality for the price.
+REV00352,CUS0046,PRD008,2025-07-10,5,Colour matched the product photos.
+REV00353,CUS0139,PRD005,2025-04-07,4,Colour matched the product photos.
+REV00354,CUS0054,PRD005,2025-05-02,4,The sizing guide helped me choose correctly.
+REV00355,CUS0127,PRD007,2025-06-26,4,Comfortable after a full day of use.
+REV00356,CUS0103,PRD009,2025-06-11,3,Great quality for the price.
+REV00357,CUS0018,PRD001,2025-09-17,4,"Good product, but the packaging could improve."
+REV00358,CUS0073,PRD004,2025-05-09,4,Great quality for the price.
+REV00359,CUS0001,PRD005,2025-09-27,5,Comfortable after a full day of use.
+REV00360,CUS0112,PRD005,2025-10-17,4,Great quality for the price.
+REV00361,CUS0073,PRD005,2025-04-01,5,Comfortable after a full day of use.
+REV00362,CUS0156,PRD012,2025-12-14,3,Solid build and thoughtful details.
+REV00363,CUS0105,PRD005,2025-11-29,2,The product photo did not match the colour exactly.
+REV00364,CUS0099,PRD002,2025-01-11,5,Comfortable fit and good materials.
+REV00365,CUS0092,PRD004,2025-01-10,4,A practical purchase that feels well made.
+REV00366,CUS0157,PRD007,2025-02-11,2,Quality was inconsistent with my last order.
+REV00367,CUS0065,PRD009,2025-07-15,1,The product photo did not match the colour exactly.
+REV00368,CUS0070,PRD007,2025-09-26,4,Useful for everyday use and easy to clean.
+REV00369,CUS0011,PRD003,2025-03-02,5,Useful for everyday use and easy to clean.
+REV00370,CUS0111,PRD004,2025-05-20,4,Colour matched the product photos.
+REV00371,CUS0144,PRD003,2025-11-21,4,The sizing guide helped me choose correctly.
+REV00372,CUS0061,PRD007,2025-10-22,4,Comfortable after a full day of use.
+REV00373,CUS0038,PRD007,2025-12-09,5,Useful for everyday use and easy to clean.
+REV00374,CUS0016,PRD011,2025-03-12,4,"Good product, but the packaging could improve."
+REV00375,CUS0094,PRD011,2025-03-01,5,Looks even better than expected; delivery was quick.
+REV00376,CUS0045,PRD007,2025-03-27,3,A practical purchase that feels well made.
+REV00377,CUS0073,PRD010,2025-04-23,5,Great quality for the price.
+REV00378,CUS0100,PRD010,2025-10-20,1,The fit was smaller than expected.
+REV00379,CUS0022,PRD009,2025-10-15,1,"Nice design, but not worth the full price."
+REV00380,CUS0159,PRD006,2025-10-19,4,A practical purchase that feels well made.
+REV00381,CUS0009,PRD002,2025-09-12,3,Colour matched the product photos.
+REV00382,CUS0140,PRD005,2025-03-19,3,  Packaging  arrived  damaged.  
+REV00383,CUS0054,PRD005,2025-04-14,4,Solid build and thoughtful details.
+REV00384,CUS0154,PRD007,2025-08-17,4,Colour matched the product photos.
+REV00385,CUS0131,PRD006,2025-03-16,5,Looks even better than expected; delivery was quick.
+REV00386,CUS0068,PRD011,2025-09-27,4,"  Good  product,  but  the  packaging  could  improve.  "
+REV00387,CUS0101,PRD003,2025-03-13,4,Solid build and thoughtful details.
+REV00388,CUS0127,PRD012,2025-06-07,4,  Solid  build  and  thoughtful  details.  
+REV00389,CUS0003,PRD003,2025-12-20,4,Colour matched the product photos.
+REV00390,CUS0114,PRD002,2025-07-27,3,A practical purchase that feels well made.
+REV00391,CUS0026,PRD008,2025-07-08,3,Delivery took longer than the estimate.
+REV00392,CUS0141,PRD011,2025-09-03,3,Colour matched the product photos.
+REV00393,CUS0160,PRD002,2025-01-16,3,Quality was inconsistent with my last order.
+REV00394,CUS0150,PRD003,2025-12-16,1,Delivery took longer than the estimate.
+REV00395,CUS0069,PRD012,2025-05-05,4,A practical purchase that feels well made.
+REV00396,CUS0022,PRD005,2025-06-29,4,Comfortable fit and good materials.
+REV00397,CUS0058,PRD011,2025-05-02,3,"Nice design, but not worth the full price."
+REV00398,CUS0011,PRD007,2025-05-25,2,Quality was inconsistent with my last order.
+REV00399,CUS0076,PRD003,2025-11-02,3,Comfortable after a full day of use.
+REV00400,CUS0121,PRD009,2025-06-12,3,Useful for everyday use and easy to clean.
+REV00401,CUS0108,PRD003,2025-02-12,3,Colour matched the product photos.
+REV00402,CUS0142,PRD005,2025-06-08,4,A practical purchase that feels well made.
+REV00403,CUS0098,PRD010,2025-07-25,3,Comfortable fit and good materials.
+REV00404,CUS0008,PRD008,2025-01-31,3,Useful for everyday use and easy to clean.
+REV00405,CUS0120,PRD001,2025-08-28,5,Colour matched the product photos.
+REV00406,CUS0019,PRD007,2025-06-22,4,  Comfortable  after  a  full  day  of  use.  
+REV00407,CUS0126,PRD008,2025-01-18,4,The sizing guide helped me choose correctly.
+REV00408,CUS0054,PRD011,2025-04-17,4,The sizing guide helped me choose correctly.
+REV00409,CUS0084,PRD010,2025-04-10,4,"Good product, but the packaging could improve."
+REV00410,CUS0094,PRD009,2025-04-02,4,Colour matched the product photos.
+REV00411,CUS0068,PRD008,2025-09-20,4,Comfortable fit and good materials.
+REV00412,CUS0148,PRD009,2025-07-11,4,Looks even better than expected; delivery was quick.
+REV00413,CUS0071,PRD012,2025-08-11,5,Solid build and thoughtful details.
+REV00414,CUS0075,PRD004,2025-03-11,3,"Nice design, but not worth the full price."
+REV00415,CUS0143,PRD005,2025-03-04,4,Solid build and thoughtful details.
+REV00416,CUS0015,PRD002,2025-10-06,4,Comfortable fit and good materials.
+REV00417,CUS0072,PRD003,2025-05-03,5,Useful for everyday use and easy to clean.
+REV00418,CUS0094,PRD009,2025-07-24,4,"Good product, but the packaging could improve."
+REV00419,CUS0080,PRD006,2025-08-21,3,Solid build and thoughtful details.
+REV00420,CUS0034,PRD012,2025-05-07,4,A practical purchase that feels well made.
+REV00421,CUS0081,PRD011,2025-01-18,4,A practical purchase that feels well made.
+REV00422,CUS0128,PRD009,2025-06-17,4,Great quality for the price.
+REV00423,CUS0009,PRD008,2025-12-04,3,  Quality  was  inconsistent  with  my  last  order.  
+REV00424,CUS0140,PRD011,2025-07-28,4,Great quality for the price.
+REV00425,CUS0116,PRD002,2025-07-19,4,Useful for everyday use and easy to clean.
+REV00426,CUS0063,PRD005,2025-07-19,1,The product photo did not match the colour exactly.
+REV00427,CUS0004,PRD006,2025-07-18,4,Colour matched the product photos.
+REV00428,CUS0017,PRD011,2025-03-02,3,Quality was inconsistent with my last order.
+REV00429,CUS0159,PRD005,2025-06-12,5,Useful for everyday use and easy to clean.
+REV00430,CUS0097,PRD005,2025-09-06,5,  Solid  build  and  thoughtful  details.  
+REV00431,CUS0031,PRD008,2025-03-07,5,"  Good  product,  but  the  packaging  could  improve.  "
+REV00432,CUS0102,PRD002,2025-06-29,5,Useful for everyday use and easy to clean.
+REV00433,CUS0035,PRD006,2025-01-05,4,Solid build and thoughtful details.
+REV00434,CUS0025,PRD010,2025-04-23,4,Looks even better than expected; delivery was quick.
+REV00435,CUS0151,PRD010,2025-07-04,4,  Looks  even  better  than  expected;  delivery  was  quick.  
+REV00436,CUS0037,PRD012,2025-08-27,4,Comfortable after a full day of use.
+REV00437,CUS0019,PRD009,2025-05-20,4,Great quality for the price.
+REV00438,CUS0137,PRD008,2025-08-30,5,A practical purchase that feels well made.
+REV00439,CUS0011,PRD012,2025-04-24,5,Looks even better than expected; delivery was quick.
+REV00440,CUS0016,PRD006,2025-05-03,4,"Good product, but the packaging could improve."
+REV00441,CUS0090,PRD007,2025-02-10,3,Comfortable after a full day of use.
+REV00442,CUS0052,PRD005,2025-10-29,5,"Good product, but the packaging could improve."
+REV00443,CUS0023,PRD007,2025-11-13,4,"Good product, but the packaging could improve."
+REV00444,CUS0054,PRD011,2025-06-29,4,Comfortable after a full day of use.
+REV00445,CUS0076,PRD005,2025-12-06,3,The product photo did not match the colour exactly.
+REV00446,CUS0108,PRD007,2025-07-23,4,Solid build and thoughtful details.
+REV00447,CUS0077,PRD004,2025-09-23,3,Comfortable after a full day of use.
+REV00448,CUS0072,PRD012,2025-11-09,5,Solid build and thoughtful details.
+REV00449,CUS0053,PRD008,2025-12-19,2,Packaging arrived damaged.
+REV00450,CUS0060,PRD005,2025-12-02,1,Delivery took longer than the estimate.
+REV00451,CUS0100,PRD009,2025-09-15,4,The sizing guide helped me choose correctly.
+REV00452,CUS0154,PRD003,2025-04-07,2,Quality was inconsistent with my last order.
+REV00453,CUS0030,PRD005,2025-02-19,5,Comfortable fit and good materials.
+REV00454,CUS0008,PRD009,2025-10-20,3,A practical purchase that feels well made.
+REV00455,CUS0070,PRD008,2025-04-12,5,Comfortable fit and good materials.
+REV00456,CUS0004,PRD003,2025-09-22,3,Delivery took longer than the estimate.
+REV00457,CUS0042,PRD002,2025-11-22,3,A practical purchase that feels well made.
+REV00458,CUS0075,PRD006,2025-02-25,3,Packaging arrived damaged.
+REV00459,CUS0114,PRD012,2025-03-25,5,"Good product, but the packaging could improve."
+REV00460,CUS0024,PRD004,2025-06-07,4,Useful for everyday use and easy to clean.
+REV00461,CUS0020,PRD012,2025-05-24,4,"Good product, but the packaging could improve."
+REV00462,CUS0079,PRD003,2025-01-28,4,The sizing guide helped me choose correctly.
+REV00463,CUS0060,PRD009,2025-08-25,5,The sizing guide helped me choose correctly.
+REV00464,CUS0158,PRD002,2025-06-07,5,Comfortable after a full day of use.
+REV00465,CUS0064,PRD007,2025-10-10,3,Packaging arrived damaged.
+REV00466,CUS0026,PRD011,2025-10-02,5,Comfortable fit and good materials.
+REV00467,CUS0037,PRD002,2025-03-28,3,Packaging arrived damaged.
+REV00468,CUS0020,PRD009,2025-04-03,4,Great quality for the price.
+REV00469,CUS0012,PRD008,2025-12-13,4,Comfortable after a full day of use.
+REV00470,CUS0123,PRD007,2025-03-08,5,"Good product, but the packaging could improve."
+REV00471,CUS0048,PRD007,2025-11-13,4,  The  sizing  guide  helped  me  choose  correctly.  
+REV00472,CUS0006,PRD012,2025-03-26,3,Delivery took longer than the estimate.
+REV00473,CUS0052,PRD005,2025-07-25,5,The sizing guide helped me choose correctly.
+REV00474,CUS0011,PRD005,2025-08-17,4,Comfortable fit and good materials.
+REV00475,CUS0110,PRD003,2025-07-28,4,A practical purchase that feels well made.
+REV00476,CUS0157,PRD004,2025-09-20,5,The sizing guide helped me choose correctly.
+REV00477,CUS0150,PRD002,2025-04-30,5,  Great  quality  for  the  price.  
+REV00478,CUS0084,PRD010,2025-01-21,3,Looks even better than expected; delivery was quick.
+REV00479,CUS0003,PRD009,2025-09-14,2,The product photo did not match the colour exactly.
+REV00480,CUS0013,PRD001,2025-02-05,5,Colour matched the product photos.
+REV00481,CUS0048,PRD011,2025-09-03,4,Comfortable fit and good materials.
+REV00482,CUS0093,PRD010,2025-03-20,4,The sizing guide helped me choose correctly.
+REV00483,CUS0075,PRD004,2025-07-16,3,A practical purchase that feels well made.
+REV00484,CUS0058,PRD002,2025-07-10,4,"Good product, but the packaging could improve."
+REV00485,CUS0146,PRD004,2025-09-16,5,Great quality for the price.
+REV00486,CUS0007,PRD003,2025-08-26,5,Looks even better than expected; delivery was quick.
+REV00487,CUS0048,PRD002,2025-02-07,1,Quality was inconsistent with my last order.
+REV00488,CUS0148,PRD004,2025-08-21,5,The sizing guide helped me choose correctly.
+REV00489,CUS0080,PRD004,2025-06-17,2,The product photo did not match the colour exactly.
+REV00490,CUS0082,PRD007,2025-06-20,4,Useful for everyday use and easy to clean.
+REV00491,CUS0004,PRD010,2025-05-05,4,Looks even better than expected; delivery was quick.
+REV00492,CUS0024,PRD008,2025-12-09,4,A practical purchase that feels well made.
+REV00493,CUS0108,PRD012,2025-06-15,5,Useful for everyday use and easy to clean.
+REV00494,CUS0140,PRD005,2025-11-28,4,Colour matched the product photos.
+REV00495,CUS0012,PRD011,2025-08-15,4,A practical purchase that feels well made.
+REV00496,CUS0154,PRD005,2025-01-26,2,Delivery took longer than the estimate.
+REV00497,CUS0027,PRD005,2025-08-13,2,The product photo did not match the colour exactly.
+REV00498,CUS0133,PRD003,2025-10-14,5,Comfortable after a full day of use.
+REV00499,CUS0010,PRD010,2025-07-08,3,Comfortable fit and good materials.
+REV00500,CUS0028,PRD011,2025-10-26,4,  Looks  even  better  than  expected;  delivery  was  quick.  
+REV00501,CUS0095,PRD002,2025-06-21,5,"Good product, but the packaging could improve."
+REV00502,CUS0088,PRD012,2025-09-04,4,Solid build and thoughtful details.
+REV00503,CUS0097,PRD006,2025-11-26,5,Comfortable after a full day of use.
+REV00504,CUS0138,PRD002,2025-02-04,4,Comfortable fit and good materials.
+REV00505,CUS0131,PRD001,2025-08-22,4,  Colour  matched  the  product  photos.  
+REV00506,CUS0051,PRD006,2025-12-13,4,  Looks  even  better  than  expected;  delivery  was  quick.  
+REV00507,CUS0114,PRD008,2025-05-27,3,Useful for everyday use and easy to clean.
+REV00508,CUS0138,PRD007,2025-06-29,4,Comfortable fit and good materials.
+REV00509,CUS0140,PRD005,2025-09-09,4,Solid build and thoughtful details.
+REV00510,CUS0045,PRD001,2025-08-22,5,A practical purchase that feels well made.
+REV00511,CUS0112,PRD007,2025-01-30,3,Solid build and thoughtful details.
+REV00512,CUS0041,PRD007,2025-11-20,4,Useful for everyday use and easy to clean.
+REV00513,CUS0067,PRD006,2025-04-05,1,  Packaging  arrived  damaged.  
+REV00514,CUS0042,PRD002,2025-01-23,2,The product photo did not match the colour exactly.
+REV00515,CUS0119,PRD002,2025-07-11,5,The sizing guide helped me choose correctly.
+REV00516,CUS0156,PRD009,2025-09-16,4,Useful for everyday use and easy to clean.
+REV00517,CUS0125,PRD008,2025-07-01,2,"Nice design, but not worth the full price."
+REV00518,CUS0098,PRD007,2025-04-14,3,The fit was smaller than expected.
+REV00519,CUS0142,PRD008,2025-03-15,4,  Colour  matched  the  product  photos.  
+REV00520,CUS0068,PRD006,2025-01-18,5,A practical purchase that feels well made.

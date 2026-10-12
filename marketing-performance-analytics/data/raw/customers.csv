@@ -1,0 +1,161 @@
+customer_id,first_name,last_name,email,signup_date,region,acquisition_channel,customer_segment
+CUS0001,Sam,Sullivan,sam.sullivan.1@example.com,2024-01-06,Nordics,Paid Social,Returning
+CUS0002,Devon,Gray,devon.gray.2@example.com,2025-10-06,United Kingdom,Email,Returning
+CUS0003,Milan,Kim,milan.kim.3@example.com,2024-10-11,DACH,Paid Search,New
+CUS0004,Emerson,Ward,emerson.ward.4@example.com,2023-08-17,DACH,Paid Search,Loyal
+CUS0005,Rowan,Powell,rowan.powell.5@example.com,2024-04-11,Benelux,Organic Search,High Value
+CUS0006,Jamie,Bennett,jamie.bennett.6@example.com,2025-08-10,North America,Influencer,New
+CUS0007,Skyler,Ward,skyler.ward.7@example.com,2023-08-18,Southern Europe,Influencer,High Value
+CUS0008,Ellis,Bennett,ellis.bennett.8@example.com,2024-11-23,DACH,Email,New
+CUS0009,Cameron,Bailey,cameron.bailey.9@example.com,2025-11-28,United Kingdom,Influencer,Loyal
+CUS0010,Reese,Hayes,reese.hayes.10@example.com,2024-01-19,United Kingdom,Paid Social,Loyal
+CUS0011,Milan,Patel,milan.patel.11@example.com,2024-05-24,Southern Europe,Referral,Loyal
+CUS0012,Kendall,Ross,kendall.ross.12@example.com,2024-02-26,North America,Organic Search,Loyal
+CUS0013,Skyler,Gray,skyler.gray.13@example.com,2023-04-02,North America,Organic Search,Loyal
+CUS0014,Finley,Bell,finley.bell.14@example.com,2023-07-09,Nordics,Influencer,Loyal
+CUS0015,Cameron,Sullivan,cameron.sullivan.15@example.com,2024-05-02,Nordics,Paid Search,New
+CUS0016,Avery,Price,avery.price.16@example.com,2023-11-28,Benelux,Organic Search,Returning
+CUS0017,Kendall,Price,kendall.price.17@example.com,2024-06-15,United Kingdom,Paid Search,New
+CUS0018,Rowan,Price,rowan.price.18@example.com,2025-01-28,DACH,Paid Search,High Value
+CUS0019,Ellis,Sullivan,ellis.sullivan.19@example.com,2023-07-28,North America,Paid Search,Loyal
+CUS0020,Finley,Bell,finley.bell.20@example.com,2024-11-12,DACH,Paid Search,Returning
+CUS0021,Quinn,Foster,quinn.foster.21@example.com,2024-06-07,Southern Europe,Paid Social,Returning
+CUS0022,Jamie,Turner,jamie.turner.22@example.com,2024-12-27,DACH,Organic Search,Loyal
+CUS0023,Morgan,Turner,morgan.turner.23@example.com,2025-08-12,Nordics,Referral,Loyal
+CUS0024,Finley,Turner,finley.turner.24@example.com,2025-07-27,North America,Paid Search,Returning
+CUS0025,Alex,Price,alex.price.25@example.com,2025-07-16,United Kingdom,Paid Social,High Value
+CUS0026,Alex,Price,alex.price.26@example.com,2024-11-16,North America,Email,New
+CUS0027,Morgan,James,morgan.james.27@example.com,2023-03-21,United Kingdom,Paid Social,Returning
+CUS0028,Parker,Brooks,parker.brooks.28@example.com,2023-09-22,Benelux,Paid Search,Returning
+CUS0029,Sam,Price,sam.price.29@example.com,2025-09-28,United Kingdom,Referral,High Value
+CUS0030,Kendall,Ross,kendall.ross.30@example.com,2025-09-07,Nordics,Paid Social,High Value
+CUS0031,Drew,Foster,drew.foster.31@example.com,2023-01-24,DACH,Organic Search,Loyal
+CUS0032,Casey,Bailey,casey.bailey.32@example.com,2025-02-16,Nordics,Influencer,New
+CUS0033,Riley,Ward,riley.ward.33@example.com,2024-10-25,North America,Email,High Value
+CUS0034,Casey,Rivera,casey.rivera.34@example.com,2023-05-06,DACH,Paid Social,High Value
+CUS0035,Skyler,Foster,skyler.foster.35@example.com,2023-01-22,Nordics,Referral,High Value
+CUS0036,Riley,Gray,riley.gray.36@example.com,2024-07-21,North America,Organic Search,Loyal
+CUS0037,Emerson,Bennett,emerson.bennett.37@example.com,2024-10-15,Nordics,Influencer,New
+CUS0038,Jamie,Kim,jamie.kim.38@example.com,2023-12-01,DACH,Referral,Loyal
+CUS0039,Casey,Powell,casey.powell.39@example.com,2025-07-03,Nordics,Email,High Value
+CUS0040,Skyler,Sullivan,skyler.sullivan.40@example.com,2023-12-21,Nordics,Referral,New
+CUS0041,Milan,Foster,milan.foster.41@example.com,2024-08-08,DACH,Organic Search,High Value
+CUS0042,Casey,Turner,casey.turner.42@example.com,2024-10-10,North America,Paid Search,Returning
+CUS0043,Sam,Morris,sam.morris.43@example.com,2023-09-08,DACH,Organic Search,New
+CUS0044,Kendall,Cook,kendall.cook.44@example.com,2025-09-11,Benelux,Email,New
+CUS0045,Alex,Reed,alex.reed.45@example.com,2023-11-27,North America,Referral,Returning
+CUS0046,Cameron,Bennett,cameron.bennett.46@example.com,2024-03-05,Southern Europe,Influencer,Returning
+CUS0047,Milan,Chen,milan.chen.47@example.com,2024-04-27,United Kingdom,Paid Search,Returning
+CUS0048,Avery,Kim,avery.kim.48@example.com,2024-03-24,DACH,Paid Search,High Value
+CUS0049,Drew,Rivera,drew.rivera.49@example.com,2024-01-14,North America,Organic Search,Loyal
+CUS0050,Riley,Cook,riley.cook.50@example.com,2023-08-06,Benelux,Organic Search,High Value
+CUS0051,Jamie,Patel,jamie.patel.51@example.com,2025-08-13,United Kingdom,Organic Search,Returning
+CUS0052,Taylor,Bell,taylor.bell.52@example.com,2023-07-20,North America,Organic Search,High Value
+CUS0053,Robin,Brooks,robin.brooks.53@example.com,2023-04-07,United Kingdom,Paid Search,Returning
+CUS0054,Robin,Reed,robin.reed.54@example.com,2025-10-21,Nordics,Email,Returning
+CUS0055,Ellis,Foster,ellis.foster.55@example.com,2025-03-23,DACH,Email,Loyal
+CUS0056,Robin,Patel,robin.patel.56@example.com,2023-05-22,United Kingdom,Paid Social,New
+CUS0057,Finley,Chen,finley.chen.57@example.com,2024-02-04,United Kingdom,Influencer,New
+CUS0058,Alex,Bailey,alex.bailey.58@example.com,2025-09-08,Southern Europe,Influencer,Loyal
+CUS0059,Morgan,Chen,morgan.chen.59@example.com,2025-05-30,Benelux,Influencer,Loyal
+CUS0060,Sam,Perry,sam.perry.60@example.com,2025-01-01,DACH,Referral,Returning
+CUS0061,Taylor,Bell,taylor.bell.61@example.com,2025-11-24,Benelux,Paid Social,High Value
+CUS0062,Finley,Bell,finley.bell.62@example.com,2023-07-20,Southern Europe,Referral,Returning
+CUS0063,Parker,Powell,parker.powell.63@example.com,2023-07-22,Benelux,Email,New
+CUS0064,Sam,Reed,sam.reed.64@example.com,2023-10-09,DACH,Organic Search,High Value
+CUS0065,Alex,Bailey,alex.bailey.65@example.com,2023-09-09,Nordics,Organic Search,New
+CUS0066,Taylor,Powell,taylor.powell.66@example.com,2025-03-14,Benelux,Referral,Returning
+CUS0067,Robin,Morris,robin.morris.67@example.com,2023-08-22,United Kingdom,Paid Social,New
+CUS0068,Casey,Brooks,casey.brooks.68@example.com,2024-03-27,North America,Referral,New
+CUS0069,Sam,Cook,sam.cook.69@example.com,2024-11-20,United Kingdom,Influencer,New
+CUS0070,Morgan,Patel,morgan.patel.70@example.com,2025-12-11,United Kingdom,Paid Search,Loyal
+CUS0071,Milan,Bennett,milan.bennett.71@example.com,2024-02-22,Southern Europe,Paid Search,Loyal
+CUS0072,Drew,Price,drew.price.72@example.com,2024-03-04,Benelux,Paid Social,New
+CUS0073,Morgan,Bell,morgan.bell.73@example.com,2024-09-08,DACH,Email,Returning
+CUS0074,Emerson,Kim,emerson.kim.74@example.com,2025-11-21,United Kingdom,Email,Loyal
+CUS0075,Taylor,Diaz,taylor.diaz.75@example.com,2023-12-19,Benelux,Referral,Loyal
+CUS0076,Kendall,Bell,kendall.bell.76@example.com,2024-01-23,Southern Europe,Paid Search,Loyal
+CUS0077,Robin,Bailey,robin.bailey.77@example.com,2023-03-21,Benelux,Paid Search,New
+CUS0078,Devon,Hayes,devon.hayes.78@example.com,2023-03-15,Benelux,Paid Search,Loyal
+CUS0079,Reese,Ross,reese.ross.79@example.com,2025-07-16,North America,Paid Social,High Value
+CUS0080,Reese,Powell,reese.powell.80@example.com,2023-05-25,Benelux,Referral,New
+CUS0081,Sam,Ward,sam.ward.81@example.com,2025-01-12,North America,Paid Social,Returning
+CUS0082,Quinn,Hayes,quinn.hayes.82@example.com,2023-11-10,Nordics,Email,New
+CUS0083,Devon,Cook,devon.cook.83@example.com,2023-04-21,North America,Paid Social,Loyal
+CUS0084,Devon,James,devon.james.84@example.com,2024-08-07,North America,Referral,High Value
+CUS0085,Skyler,Kim,skyler.kim.85@example.com,2023-12-17,Southern Europe,Paid Social,Returning
+CUS0086,Cameron,James,cameron.james.86@example.com,2023-05-24,Nordics,Referral,Returning
+CUS0087,Taylor,Gray,taylor.gray.87@example.com,2025-01-06,Benelux,Referral,Loyal
+CUS0088,Rowan,Cooper,rowan.cooper.88@example.com,2023-10-07,Nordics,Email,Returning
+CUS0089,Ellis,Hayes,ellis.hayes.89@example.com,2023-10-07,United Kingdom,Paid Search,Loyal
+CUS0090,Reese,Bell,reese.bell.90@example.com,2025-12-06,DACH,Paid Search,Returning
+CUS0091,Riley,Bailey,riley.bailey.91@example.com,2025-09-27,North America,Referral,Returning
+CUS0092,Devon,Kim,devon.kim.92@example.com,2023-11-04,DACH,Influencer,High Value
+CUS0093,Devon,Powell,devon.powell.93@example.com,2023-05-17,Southern Europe,Paid Search,Loyal
+CUS0094,Casey,Kim,casey.kim.94@example.com,2023-04-29,Southern Europe,Email,High Value
+CUS0095,Ellis,Patel,ellis.patel.95@example.com,2023-08-03,Benelux,Paid Search,Returning
+CUS0096,Skyler,Turner,skyler.turner.96@example.com,2025-10-03,Southern Europe,Influencer,Loyal
+CUS0097,Morgan,Powell,morgan.powell.97@example.com,2023-01-21,Benelux,Email,New
+CUS0098,Alex,Reed,alex.reed.98@example.com,2023-06-25,Southern Europe,Paid Search,High Value
+CUS0099,Robin,Sullivan,robin.sullivan.99@example.com,2023-10-14,Benelux,Paid Search,Returning
+CUS0100,Milan,James,milan.james.100@example.com,2024-02-23,United Kingdom,Organic Search,Loyal
+CUS0101,Ellis,Hayes,ellis.hayes.101@example.com,2024-11-09,Benelux,Email,Loyal
+CUS0102,Sasha,Cook,sasha.cook.102@example.com,2023-12-06,DACH,Organic Search,Returning
+CUS0103,Emerson,Cooper,emerson.cooper.103@example.com,2025-01-29,Benelux,Referral,New
+CUS0104,Parker,Cooper,parker.cooper.104@example.com,2025-07-31,Southern Europe,Organic Search,Returning
+CUS0105,Taylor,Reed,taylor.reed.105@example.com,2024-04-26,North America,Organic Search,Loyal
+CUS0106,Drew,Chen,drew.chen.106@example.com,2025-08-30,DACH,Organic Search,High Value
+CUS0107,Avery,Cooper,avery.cooper.107@example.com,2024-03-04,United Kingdom,Paid Social,High Value
+CUS0108,Sam,Reed,sam.reed.108@example.com,2023-11-18,Benelux,Paid Search,New
+CUS0109,Riley,Morris,riley.morris.109@example.com,2023-02-25,DACH,Influencer,High Value
+CUS0110,Ellis,Ross,ellis.ross.110@example.com,2024-11-23,Benelux,Email,Loyal
+CUS0111,Quinn,Price,quinn.price.111@example.com,2023-04-24,DACH,Paid Social,High Value
+CUS0112,Ellis,Ward,ellis.ward.112@example.com,2024-08-23,Nordics,Organic Search,High Value
+CUS0113,Riley,Reed,riley.reed.113@example.com,2024-04-20,United Kingdom,Organic Search,Returning
+CUS0114,Emerson,Kim,emerson.kim.114@example.com,2024-04-26,Southern Europe,Influencer,Loyal
+CUS0115,Jamie,Chen,jamie.chen.115@example.com,2023-03-09,Nordics,Email,Returning
+CUS0116,Ellis,Ross,ellis.ross.116@example.com,2023-12-03,Benelux,Email,Returning
+CUS0117,Quinn,Hayes,quinn.hayes.117@example.com,2024-03-17,North America,Email,Loyal
+CUS0118,Alex,Bell,alex.bell.118@example.com,2025-03-20,DACH,Paid Social,High Value
+CUS0119,Alex,Powell,alex.powell.119@example.com,2024-12-13,Benelux,Paid Social,New
+CUS0120,Emerson,Bell,emerson.bell.120@example.com,2024-03-06,Nordics,Referral,Returning
+CUS0121,Drew,Cooper,drew.cooper.121@example.com,2023-01-29,DACH,Paid Search,New
+CUS0122,Skyler,Perry,skyler.perry.122@example.com,2024-03-30,Benelux,Organic Search,Loyal
+CUS0123,Morgan,Rivera,morgan.rivera.123@example.com,2023-07-10,DACH,Paid Social,Loyal
+CUS0124,Sam,Foster,sam.foster.124@example.com,2025-03-29,Benelux,Influencer,Loyal
+CUS0125,Cameron,Ward,cameron.ward.125@example.com,2023-06-21,Benelux,Organic Search,Returning
+CUS0126,Alex,Gray,alex.gray.126@example.com,2023-09-30,Nordics,Influencer,Returning
+CUS0127,Emerson,Rivera,emerson.rivera.127@example.com,2024-10-18,Southern Europe,Paid Search,High Value
+CUS0128,Quinn,Ward,quinn.ward.128@example.com,2025-10-12,Benelux,Influencer,Returning
+CUS0129,Robin,Cooper,robin.cooper.129@example.com,2023-02-10,Benelux,Paid Social,New
+CUS0130,Sam,Sullivan,sam.sullivan.130@example.com,2025-12-02,Benelux,Paid Social,New
+CUS0131,Sam,Kim,sam.kim.131@example.com,2024-06-25,United Kingdom,Email,Loyal
+CUS0132,Sam,James,sam.james.132@example.com,2023-07-11,Nordics,Organic Search,Returning
+CUS0133,Alex,Diaz,alex.diaz.133@example.com,2025-09-26,North America,Referral,High Value
+CUS0134,Drew,Ross,drew.ross.134@example.com,2025-09-13,Nordics,Influencer,High Value
+CUS0135,Morgan,Powell,morgan.powell.135@example.com,2025-09-02,Nordics,Referral,High Value
+CUS0136,Devon,Turner,devon.turner.136@example.com,2023-01-26,Nordics,Paid Search,High Value
+CUS0137,Rowan,Bennett,rowan.bennett.137@example.com,2025-05-12,Nordics,Paid Search,Returning
+CUS0138,Alex,Bennett,alex.bennett.138@example.com,2023-02-08,North America,Paid Search,Returning
+CUS0139,Emerson,Bell,emerson.bell.139@example.com,2023-12-30,United Kingdom,Paid Social,New
+CUS0140,Cameron,Gray,cameron.gray.140@example.com,2024-07-30,Benelux,Influencer,High Value
+CUS0141,Skyler,Brooks,skyler.brooks.141@example.com,2023-06-09,Benelux,Referral,Loyal
+CUS0142,Kendall,Kim,kendall.kim.142@example.com,2025-05-25,United Kingdom,Paid Search,Returning
+CUS0143,Riley,Hayes,riley.hayes.143@example.com,2025-08-01,DACH,Paid Search,Loyal
+CUS0144,Rowan,Ross,rowan.ross.144@example.com,2023-01-16,Benelux,Paid Social,Loyal
+CUS0145,Kendall,Perry,kendall.perry.145@example.com,2025-05-18,United Kingdom,Paid Social,Returning
+CUS0146,Riley,Brooks,riley.brooks.146@example.com,2024-03-04,DACH,Organic Search,Loyal
+CUS0147,Rowan,Rivera,rowan.rivera.147@example.com,2023-08-24,DACH,Organic Search,New
+CUS0148,Devon,Chen,devon.chen.148@example.com,2024-02-04,Southern Europe,Paid Search,Returning
+CUS0149,Alex,Hayes,alex.hayes.149@example.com,2025-05-31,Southern Europe,Email,High Value
+CUS0150,Finley,Diaz,finley.diaz.150@example.com,2024-08-15,United Kingdom,Email,New
+CUS0151,Finley,Ward,finley.ward.151@example.com,2025-09-24,Southern Europe,Paid Search,New
+CUS0152,Jamie,Price,jamie.price.152@example.com,2025-10-27,United Kingdom,Referral,New
+CUS0153,Devon,Ross,devon.ross.153@example.com,2024-04-09,Benelux,Influencer,High Value
+CUS0154,Taylor,Foster,taylor.foster.154@example.com,2025-12-13,North America,Influencer,Loyal
+CUS0155,Avery,Foster,avery.foster.155@example.com,2024-09-30,Southern Europe,Referral,Loyal
+CUS0156,Casey,Hayes,casey.hayes.156@example.com,2023-01-20,Benelux,Email,Returning
+CUS0157,Reese,Sullivan,reese.sullivan.157@example.com,2023-04-26,Benelux,Organic Search,Loyal
+CUS0158,Kendall,Bailey,kendall.bailey.158@example.com,2024-04-14,United Kingdom,Referral,High Value
+CUS0159,Skyler,Diaz,skyler.diaz.159@example.com,2023-08-15,United Kingdom,Email,Loyal
+CUS0160,Morgan,Bell,morgan.bell.160@example.com,2025-03-20,Benelux,Email,High Value
