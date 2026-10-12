@@ -82,7 +82,6 @@ The primary observation window is **January 1–December 31, 2025**. Some custom
 - **Journey purchase rate**: sessions whose highest recorded journey stage is `Purchase`, divided by sessions in the journey table. This is a simplified synthetic funnel, not a multi-touch attribution model.
 - **Average review rating**: arithmetic mean of submitted star ratings; it should be considered with review count and rating distribution.
 
-Do not add journey-table orders to campaign-attributed revenue and then call the result total revenue: the sources describe different measurement views and may overlap.
 
 ## Data model
 
@@ -94,15 +93,7 @@ Do not add journey-table orders to campaign-attributed revenue and then call the
 - `raw.content_engagement` → content engagement fact
 - `raw.customer_reviews` → customer feedback fact
 
-The Power BI model and recommended relationships are documented in `powerbi/model_and_report_plan.md`. Keep campaign performance and journey outcomes as separate facts to avoid multiplying spend when joining it to session-level rows.
-
-## Limitations worth stating in an interview
-
-1. Data is synthetic, so the analysis demonstrates method rather than a real commercial result.
-2. The attributed-revenue values are supplied by the source data and should not be interpreted as incrementality.
-3. The journey file records one final stage per session rather than every event in a session.
-4. Spend, attributed conversions, and journey purchases are distinct measurement facts; reconciliation is a next step.
-5. No personal data, API keys, credentials, or live ad-platform connections are required.
+The Power BI model and recommended relationships are documented in `powerbi/model_and_report_plan.md`. 
 
 ## Repository map
 
@@ -130,10 +121,6 @@ marketing-performance-analytics/
 ## Project ownership and attribution
 
 This repository is a distinct rebuild with newly authored SQL, documentation, report specifications, and newly generated synthetic data. The public marketing-analytics portfolio repository that motivated the topic is credited in [`docs/attribution.md`](docs/attribution.md); its original data and code are not bundled here. Before publishing, replace the portfolio-author placeholder in that document with your name and only describe work you have personally reviewed and can explain.
-
-## Suggested portfolio description
-
-> Built a SQL Server and Power BI marketing analytics case study using synthetic campaign, customer journey, content, product, and review data. Designed relational tables, wrote data-quality checks and reusable analytical views, defined channel-performance measures (ROAS, CTR, and cost per conversion), and documented a dashboard model that separates campaign measurement from session-level behavior.
 
 ## Reproducible example metrics
 
